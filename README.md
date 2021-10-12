@@ -4,7 +4,8 @@ Arkanoid GameProject
 A version of the Arkanoid game, as part of the OOP course, during my Computer Science studies degree.
 The game contains various levels with increasing difficulty, in a GUI-friendly platform.
 I implemented the game with Java language and using many OOP principles.
-4 levels.
+
+4 levels:
 
 first:
 
